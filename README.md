@@ -4,8 +4,18 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="AD logo"/>
 </p>
 
-<h1>Azure Active Direct</h1>
-In this lab, <br />
+<h1>Azure Active Directory Lab Summary</h1>
+
+- Azure Setup
+- Domain Controller and Client Setup
+- Connectivity
+- Active Directory Installation
+- User Management
+- Domain Joining
+- Remote Desktop Setup
+- Additional User Creation
+- Password Reset
+<br />
 
 
 
