@@ -1,11 +1,11 @@
 # Azure-Active-Directory-Home-Lab
 
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-In this lab, I install the ticketing system osTicket from the ground up using neccessary installation files. The lab is done in Windows 10 Pro 22H2 VM made on Microsoft Azure. I will outline the steps using pictures in this github repository. <br />
+<h1>Azure Active Direct</h1>
+In this lab, <br />
 
 
 
@@ -17,7 +17,7 @@ In this lab, I install the ticketing system osTicket from the ground up using ne
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (22H2)
+- Windows 10 </b> (22H2)
 - Windows Server 2022 Data Center
 
 <h2>Prerequisites</h2>
@@ -195,32 +195,35 @@ Next we will go to our log into DC-1 with jane_admin and open Powershell ISE as 
 We will edit the script and change the 10000 accounts to be created to only 1000. Now we will run the script to test the result, by clicking the green play button, or F5. If we are not able to run the script it is because we did not launch Powershell ISE an administrator.
   
 <p>
-<img src="" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-
-<p>
 <img src="https://i.imgur.com/O7wzDCM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
 
-x
+We can now view the users created within the _EMPLOYEES Organizational Unit.
 
 <p>
-<img src="" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rvV28iU.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-x
+Now we will test it by logging out of CLIENT-1 and log back in with one of the accounts that was created. Using our domain name and \ the user name and password we selected in the script.
 
 <p>
-<img src="" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h8TBCjW.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-x
+After confirming that account works we will now log in to another account on the CLIENT-1 VM, after signing off of our balo.liso account we will attempt log ins on another account unable to get the password right. Now we will perform a simple password reset and unlock the account after our numerous failed attempts.
 
 <p>
-<img src="" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J3d7AZC.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-We will edit the script and change the 10000 accounts to be created to only 1000. Now we will run the script to test the result, by clicking the green play button, or F5. If we are not able to run the script it is because we did not launch Powershell ISE an administrator.
+Congratulations you have set up Active Directory within Azure, and performed a password reset, unlocking the client's account.
+
+<p>
+<img src="https://i.imgur.com/6Kxbibl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
