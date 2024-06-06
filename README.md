@@ -1,7 +1,7 @@
 # Azure-Active-Directory-Home-Lab
 
 <p align="center">
-<img src="" alt="osTicket logo"/>
+<img src="https://i.imgur.com/pU5A58S.png" alt="AD logo"/>
 </p>
 
 <h1>Azure Active Direct</h1>
