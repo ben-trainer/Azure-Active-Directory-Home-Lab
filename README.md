@@ -107,7 +107,7 @@ We’ll click “Add a new forest” name it bensdomain.com > Next, Enter creden
 Now in order to login we must wait for the VM to be restarted and specify the domain name when we log in since our DNS has been set up. We will type in bensdomain.com\labuser for the user name now instead of just labuser.
 
 <p>
-<img src="https://i.imgur.com/0OFFt81.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0OFFt81.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
