@@ -218,7 +218,7 @@ We can now view the users created within the _EMPLOYEES Organizational Unit.
 Now we will test it by logging out of CLIENT-1 and log back in with one of the accounts that was created. Using our domain name and \ the user name and password we selected in the script.
 
 <p>
-<img src="https://i.imgur.com/h8TBCjW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h8TBCjW.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
