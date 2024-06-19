@@ -156,7 +156,7 @@ We can see the log in was successful into the Domain by typing “whoami” into
 We will now right click the Windows (Start) icon and click System > Rename This PC (Advanced) > Change > Domain, and attempt to connect to bensdomain.com
 
 <p>
-<img src="https://i.imgur.com/CdKEkWO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CdKEkWO.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -170,7 +170,7 @@ To fix this we will go to Azure portal and navigate to DC-1 VM > Networking > Ne
 Now we need to restart CLIENT1 from the portal. After opening the CLIENT1 VM back up and logging into labuser we can confirm and test the DNS connectivity using ipconfig /all and ping the private IP address.
 
 <p>
-<img src="https://i.imgur.com/2ZRUG3R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2ZRUG3R.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -191,7 +191,7 @@ We can log in with our jane_admin account and can confirm we joined the domain w
 We will then remote back into the CLIENT-1 VM and log in using the jane_admin account. We will now right click the Windows Icon > System > Remote Desktop > Select users that can remotely access this PC > Add, type in “domain users” > Check names > Ok > Ok
 
 <p>
-<img src="https://i.imgur.com/1VhdmUO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1VhdmUO.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
