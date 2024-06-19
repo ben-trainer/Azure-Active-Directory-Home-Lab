@@ -121,7 +121,7 @@ Once our DC-1 VM is finally loaded up we can open up our Server Manager > Go to 
 We will right click bensdomain.com > New > Organizational Unit, create an employees and admins unit.
   
 <p>
-<img src="https://i.imgur.com/UD34Bht.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UD34Bht.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -142,7 +142,7 @@ Our user still doesn’t have admin rights despite being in the _ADMINS organiza
 We will now sign out of our labuser account and log into Jane Doe’s admin account at bensdomain.com\jane_admin and enter our password.
   
 <p>
-<img src="https://i.imgur.com/hnw3vr6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hnw3vr6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -184,7 +184,7 @@ When we attempt to join the domain again we can see that we are prompted to ente
 We can log in with our jane_admin account and can confirm we joined the domain when prompted with this image. We will be forced to restart the computer.
   
 <p>
-<img src="https://i.imgur.com/64OAYC0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/64OAYC0.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -232,7 +232,7 @@ After confirming that account works we will now log in to another account on the
 Congratulations you have set up Active Directory within Azure, and performed a password reset, unlocking the client's account.
 
 <p>
-<img src="https://i.imgur.com/6Kxbibl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6Kxbibl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
