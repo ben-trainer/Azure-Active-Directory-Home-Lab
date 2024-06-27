@@ -1,4 +1,4 @@
-# Installing and Configuring Active Directory
+# Installing and Configuring Active Directory in Azure
 
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="AD logo"/>
