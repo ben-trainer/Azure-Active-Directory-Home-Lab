@@ -1,4 +1,4 @@
-# Azure-Active-Directory-Home-Lab
+# Installing and Configuring Active Directory
 
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="AD logo"/>
